@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Aleksandar Ilic, Ana Correia, Daniel Castro, Luis Russo, Paolo Romano
+Copyright (c) 2022 Daniel Castro, Luis Russo, Aleksandar Ilic, Paolo Romano, Ana Correia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
